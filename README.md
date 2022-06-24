@@ -1,5 +1,5 @@
 # Idle-Clicker-Game
-An idle place of leisure mining games
+### An idle place of leisure mining games
 
 Offline revenue capture - 离线获取收益
 
